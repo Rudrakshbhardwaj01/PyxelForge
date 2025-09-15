@@ -73,7 +73,7 @@ Or, insert it directly in the code (not recommended for production).
 Run the main script to generate an image and ASCII art from a prompt:
 
 ```sh
-python main.py "
+python main.py 
 ```
 
 **Outputs:**
