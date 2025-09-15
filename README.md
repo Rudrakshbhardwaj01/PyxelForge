@@ -109,22 +109,10 @@ python main.py "
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Submit a pull request with a clear description.
-
-Read the [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
----
 
 ## 📬 Contact
 
