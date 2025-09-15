@@ -7,7 +7,7 @@ PyxelForge is a Python project that transforms text prompts into AI-generated im
 ##  Folder Structure
 
 ```
-PyxelForge/
+ASCII ART GENERATOR/
 ├── imageGen/         # Contains code for generating AI images using Mistral
 │   └── imageGen.py
 ├── ASCIIgen/         # Contains code for converting images to ASCII art
@@ -35,7 +35,7 @@ PyxelForge/
 
 ```sh
 git clone https://github.com/Rudrakshbhardwaj01/PyxelForge.git
-cd PyxelForge
+cd ASCII ART GENERATOR
 ```
 
 ### 2. Install Python Dependencies
