@@ -73,22 +73,13 @@ Or, insert it directly in the code (not recommended for production).
 Run the main script to generate an image and ASCII art from a prompt:
 
 ```sh
-python main.py --prompt "A futuristic city skyline at sunset"
+python main.py "
 ```
 
 **Outputs:**
 - The generated image will be saved in the `images/` folder.
 - The corresponding ASCII art will also be saved in `images/`.
 
-**Optional Parameters:**
-- Adjust the ASCII output width:
-  ```sh
-  python main.py --prompt "A cat with glasses" --width 80
-  ```
-- Customize output file names:
-  ```sh
-  python main.py --prompt "A mountain landscape" --image_name mountain.png --ascii_name mountain.txt
-  ```
 
 ---
 
