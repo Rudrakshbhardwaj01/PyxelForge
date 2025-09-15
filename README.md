@@ -105,7 +105,6 @@ python main.py
 
 **Rudraksh Bhardwaj**  
 - [GitHub Profile](https://github.com/Rudrakshbhardwaj01)
-- For questions: [rudrakshbhardwaj01@gmail.com](mailto:rudrakshbhardwaj01@gmail.com)
 
 ---
 
@@ -114,7 +113,7 @@ python main.py
 This project is licensed under the [MIT License](LICENSE).
 
 
-## 📬 Contact
+##  Contact
 
 For questions, suggestions, or feedback, open an issue or email [rudrakshbhardwaj01@gmail.com](mailto:rudrakshbhardwaj01@gmail.com).
 
