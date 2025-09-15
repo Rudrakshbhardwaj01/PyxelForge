@@ -1,7 +1,7 @@
 from mistralai import Mistral
 from mistralai.models import ToolFileChunk
 
-API_KEY = "fRedMS8Jd32SumZtIayrwqzs3WxkWnxF"
+API_KEY = "YOUR-MISTRAL-API-KEY"
 
 client = Mistral(api_key=API_KEY)
 
@@ -26,5 +26,6 @@ def simple_generate_image(prompt, output_path="out.png"):
             return output_path
 
     raise RuntimeError("No image returned")
+
 
 
